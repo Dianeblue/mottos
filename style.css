@@ -1,0 +1,28 @@
+
+
+body {
+  background-image: url(http://justgoodvibe.com/wp-content/uploads/2015/10/galaxy-wallpaper-3.jpg)
+}
+
+
+.row{
+  color:white;
+}
+
+.header {
+  text-align: center;
+  color: white;
+
+}
+
+.footer {
+  font-family: fantasy;
+  font-size: .8em;
+  font-weight: 400;
+  color: #510203;
+  width: 100%;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
